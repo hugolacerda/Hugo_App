@@ -1,0 +1,1 @@
+<div class="alert alert-success">List #<?php echo html_escape($lists->list_name); ?> created!</div>
