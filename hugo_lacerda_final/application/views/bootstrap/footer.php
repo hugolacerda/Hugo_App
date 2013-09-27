@@ -1,7 +1,7 @@
 <hr>
 
             <footer>
-                <p>&copy; lynda.com 2013</p>
+                <p>&copy; Hugo Lacerda 2013</p>
             </footer>
 
         </div> <!-- /container -->
